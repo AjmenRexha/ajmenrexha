@@ -112,7 +112,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/42learners/Common-Core---Libft-04b53a39-ede6-4b21-a8d5-1bb196f7017c.git" target="_blank">
-    <img src="https://img.shields.io/badge/My%Libft%20Project-View%20Repo-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/42learners/Common-Core---Libft-04b53a39-ede6-4b21-a8d5-1bb196f7017c" target="_blank">
+    <img src="https://img.shields.io/badge/Libft%20Project-View%20Repo-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
