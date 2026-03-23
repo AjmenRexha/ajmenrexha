@@ -42,3 +42,14 @@
 </div>
 
 <hr>
+## 🛠️ Languages and Tools
+
+<br>
+
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,react,html,css,tailwind,flutter,nodejs,nextjs" />
+  </p>
+</div>
+
+<hr>
