@@ -41,14 +41,13 @@
   </a>
 </div>
 
-<hr>
-## 🛠️ Languages and Tools
+## 💻 My Tech Stack & Tools
 
 <br>
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,react,html,css,tailwind,flutter,nodejs,nextjs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,html,css,tailwind,flutter,nodejs,nextjs" />
   </p>
 </div>
 
