@@ -112,23 +112,7 @@
 <br>
 
 <div align="center">
-
-<a href="https://github.com/ajmenrexha/project-1" target="_blank">
-  <img src="https://img.shields.io/badge/Project%201-View%20Repo-blue?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/ajmenrexha/project-2" target="_blank">
-  <img src="https://img.shields.io/badge/Project%202-View%20Repo-green?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/ajmenrexha/project-3" target="_blank">
-  <img src="https://img.shields.io/badge/Project%203-View%20Repo-orange?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<hr>
-
-<div align="center">
   <a href="https://github.com/42learners/Common-Core---Libft-04b53a39-ede6-4b21-a8d5-1bb196f7017c.git" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Awesome%20Project-View%20Repo-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/My%Libft%20Project-View%20Repo-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
