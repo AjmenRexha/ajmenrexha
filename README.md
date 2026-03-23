@@ -11,8 +11,21 @@
 
 ### Full-stack engineer creating fast, modern, and intuitive web applications.
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/ajmenrexha/ajmenrexha/issues)**
+<div align="center">
+
+### 🌱 Learning New Skills & Advanced Web Development
+<img src="https://img.shields.io/badge/System%20Design-ByteByteGo-blueviolet?style=for-the-badge&logo=book&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced%20Web%20Development-00BFFF?style=for-the-badge&logo=webflow&logoColor=white" />
+
+### 💬 Ask Me About
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/More-Issues-lightgrey?style=for-the-badge&logo=github&logoColor=black" />
+
+[Open an Issue Here](https://github.com/ajmenrexha/ajmenrexha/issues)
+
+</div>
 
 <br>
 
