@@ -87,3 +87,22 @@
 </div>
 
 <hr>
+
+## 🎓 Education
+
+<br>
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/🎓-Business%20Informatics-blue?style=for-the-badge&logo=university&logoColor=white" /><br>
+    <b>Faculty of Economy, University of Tirana</b><br>
+    3rd Year Bachelor
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/🏫-Common%20Core-lightgrey?style=for-the-badge&logo=school&logoColor=black" /><br>
+    <b>42 Tirana School</b><br>
+    Core Curriculum
+  </p>
+</div>
+
+<hr>
