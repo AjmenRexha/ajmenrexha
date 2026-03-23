@@ -47,7 +47,42 @@
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,html,css,tailwind,flutter,nodejs,nextjs" />
+    <a href="https://www.cprogramming.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=c" alt="C" />
+    </a>
+    <a href="https://isocpp.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+    </a>
+    <a href="https://www.java.com/en/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    </a>
+    <a href="https://www.javascript.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+    </a>
+    <a href="https://react.dev/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+    </a>
+    <a href="https://flutter.dev/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+    </a>
   </p>
 </div>
 
