@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/ajmenrexha/ajmenrexha/main/batman_bad_code.jpg" alt="Saving Gotham">
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ajmen+Rexha!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ajmen+Rexha!:+Call+Me+Batman🦇;" />
 </h1>
 
 ### Full-stack engineer creating fast, modern, and intuitive web applications.
