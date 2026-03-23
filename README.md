@@ -99,7 +99,7 @@
     3rd Year Bachelor
   </p>
   <p>
-    <img src="https://img.shields.io/badge/🏫-Common%20Core-lightgrey?style=for-the-badge&logo=school&logoColor=black" /><br>
+    <img src="https://img.shields.io/badge/42%20Tirana-Common%20Core-black?style=for-the-badge&logo=42&logoColor=white" /><br>
     <b>42 Tirana School</b><br>
     Core Curriculum
   </p>
